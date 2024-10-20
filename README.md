@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TakioTakkaido
 - 👀 I’m interested in Demon Slayer and Clash of Clans
-- 🌱 I’m currently learning Android App Developmeny
+- 🌱 I’m currently learning Android App Development
 - 💞️ I’m looking to collaborate on various game developers
 - 📫 How to reach me ...
 
